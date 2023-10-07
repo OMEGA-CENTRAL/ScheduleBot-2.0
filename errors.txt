@@ -1,0 +1,12 @@
+
+module 'datetime' has no attribute 'now'
+module 'datetime' has no attribute 'now'
+module 'datetime' has no attribute 'now'
+module 'datetime' has no attribute 'now'
+module 'datetime' has no attribute 'now'
+module 'datetime' has no attribute 'now'
+module 'datetime' has no attribute 'now'
+cannot access local variable 'departureDate' where it is not associated with a value
+cannot access local variable 'departureDate' where it is not associated with a value
+cannot access local variable 'message' where it is not associated with a value
+cannot access local variable 'message' where it is not associated with a value
