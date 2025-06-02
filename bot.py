@@ -4,7 +4,7 @@ from peewee import *
 from threading import Thread
 from telebot import types 
 
-bot = telebot.TeleBot("6248869227:AAGPNfOpjhIEgYC4opEpUwOouCSpVKEAAEc")
+bot = telebot.TeleBot("")
 dbUsers = SqliteDatabase(pathlib.Path('users.db'))
 
 bot.set_my_commands([
